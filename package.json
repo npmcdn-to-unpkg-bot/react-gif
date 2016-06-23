@@ -27,6 +27,6 @@
     "babel": "^5.1.10"
   },
   "dependencies": {
-    "exploder": "git://github.com/cezary/exploder"
+    "exploder": "git://github.com/Willyham/exploder"
   }
 }
