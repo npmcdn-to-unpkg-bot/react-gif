@@ -1,6 +1,6 @@
 {
   "name": "react-gif",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React port of [x-gif](http://geelen.github.io/x-gif/)",
   "main": "dist/react-gif.js",
   "scripts": {
