@@ -2,7 +2,7 @@
   "name": "react-gif",
   "version": "0.0.2",
   "description": "React port of [x-gif](http://geelen.github.io/x-gif/)",
-  "main": "lib/react-gif.js",
+  "main": "dist/react-gif.js",
   "scripts": {
     "build": "./node_modules/.bin/babel lib/react-gif.js > dist/react-gif.js"
   },
@@ -27,6 +27,6 @@
     "babel": "^5.1.10"
   },
   "dependencies": {
-    "exploder": "git://github.com/cezary/exploder"
+    "exploder": "git://github.com/Willyham/exploder"
   }
 }
